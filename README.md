@@ -35,6 +35,8 @@ We plan to expand ArtHub with additional features, such as:
 
 ArtHub represents our commitment and skills in creating a platform that not only connects artists with collectors but also enriches the art buying experience. We invite you to explore our repository and engage with ArtHub.
 
+<img width="1505" alt="Screenshot 2024-04-21 at 12 44 49 PM" src="https://github.com/neeyatimehta/ArtHub/assets/80911327/c914dc4c-475b-4aa4-893a-6d597623a1fa">
+
 ## Contributors
 
 - Neeyati Mehta
